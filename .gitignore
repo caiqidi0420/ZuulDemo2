@@ -1,0 +1,4 @@
+# Project exclude paths
+/ribbon-test1/target/
+/ribbon-test2/target/
+/zuul-Server1/target/
